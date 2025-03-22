@@ -1,0 +1,41 @@
+.about-img {
+    height:500px;
+    margin-top:-20px;
+    margin-left:400px;
+    display:block;
+}
+.mentor-img {
+    height:550px;
+    width:550px;
+    margin-top:5px;
+    border-radius:50%;
+    display:inline-block;
+    margin-left:400px;
+}
+.header {
+    
+    
+}
+.card {
+    height:500px;
+    background-color:#e53170;
+    width:300px;
+    display:inline-block;
+
+}
+.studio-img {
+    height:50%;
+    width:100%;
+    
+}
+.card-1 {
+    height:500px;
+    background-color:#e53170;;
+    width:300px;
+    display:inline-block;
+    margin-left:80px;
+
+}
+.header {
+    margin-left:50px;
+}
