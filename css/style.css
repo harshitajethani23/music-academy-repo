@@ -1,9 +1,7 @@
 .navbar {
-    border-bottom:solid 2px black;
+   
     background-color:#e53170;
-    padding:10px 20px 0px 20px;
-    
-    
+    padding:20px;
 }
 
 
@@ -17,11 +15,13 @@
 }
 
 .nav-menu-selected {
-    border-bottom:4px solid white;
+   
     font-weight: bold;
 }
 .logo {
     height:40px;
+    display: inline-block;
+    
 }
 .box {
     height:200px;
@@ -32,4 +32,7 @@
     padding:20px;
     display:inline-block;
     margin-top:20px;
+}
+.name {
+    font-weight:bold;
 }
